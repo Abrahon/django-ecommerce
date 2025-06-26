@@ -7,7 +7,7 @@ A backend-only eCommerce platform built with Django and Django REST Framework. T
 ## email and password
 -admin@gmail.com
 -12345
-## 🚀 Features
+## Features
 
 ###  User & Auth
 - Custom user model with email as username
@@ -18,7 +18,7 @@ A backend-only eCommerce platform built with Django and Django REST Framework. T
 
 ### Shop
 - Category & Product models
-- Image upload support (Cloudinary/AWS S3-ready)
+- Image upload support (Cloudinary)
 - Product listing with:
   - Filtering by category
   - Search functionality
@@ -38,12 +38,12 @@ A backend-only eCommerce platform built with Django and Django REST Framework. T
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python 3.x
 - Django 4.x
 - Django REST Framework
-- PostgreSQL or SQLite (for development)
+-  SQLite (for development)
 - Stripe API
 - Cloudinary (optional, for image/media upload)
 - `requests + BeautifulSoup` (for scraping)
