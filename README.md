@@ -45,9 +45,9 @@ A backend-only eCommerce platform built with Django and Django REST Framework. T
 - Django REST Framework
 -  SQLite (for development)
 - Stripe API
-- Cloudinary (optional, for image/media upload)
+- Cloudinary (for image/media upload)
 - `requests + BeautifulSoup` (for scraping)
-- `django-allauth` (optional for email auth)
+- `django-allauth` ( for email auth)
 
 ---
 
