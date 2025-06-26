@@ -3,7 +3,10 @@
 A backend-only eCommerce platform built with Django and Django REST Framework. This project supports user authentication, product management, reviews, scraping, and Stripe-based checkout.
 
 ---
-
+## admin access
+## email and password
+-admin@gmail.com
+-12345
 ## 🚀 Features
 
 ###  User & Auth
@@ -48,7 +51,7 @@ A backend-only eCommerce platform built with Django and Django REST Framework. T
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
