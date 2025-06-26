@@ -6,7 +6,7 @@ A backend-only eCommerce platform built with Django and Django REST Framework. T
 ## admin access
 ## email and password
 -admin@gmail.com
--12345
+-123456
 ## Features
 
 ###  User & Auth
